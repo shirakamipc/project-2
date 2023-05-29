@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ff5e766-9a62-47e1-ab73-4686c6d3cda0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/core/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/templates/core/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/templates/core/signup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/item/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/item/templates/item/form.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/templates/core/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/core/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puddle/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/puddle/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puddle/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/puddle/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/item/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/item/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +124,7 @@
       <workItem from="1684822561775" duration="899000" />
       <workItem from="1685340686878" duration="468000" />
       <workItem from="1685349779625" duration="1415000" />
-      <workItem from="1685352239220" duration="11128000" />
+      <workItem from="1685352239220" duration="14116000" />
     </task>
     <servers />
   </component>

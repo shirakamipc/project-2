@@ -2,27 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ff5e766-9a62-47e1-ab73-4686c6d3cda0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/conversation/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conversation/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conversation/migrations/0002_alter_conversation_item_alter_conversation_members_and_more.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conversation/migrations/0003_alter_conversation_item_alter_conversation_members_and_more.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conversation/templates/conversation/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conversation/templates/conversation/inbox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conversation/templates/conversation/new.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conversation/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/templates/core/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/item_images/mua-figure-naruto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conversation/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/conversation/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conversation/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/conversation/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conversation/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/conversation/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conversation/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/conversation/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/templates/core/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/core/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/item/templates/item/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/item/templates/item/detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puddle/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/puddle/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puddle/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/puddle/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/item_images/2022-T1-Team-Jersey-LOL-LCK-SKT-Faker-Keria-Teddy-Cuzz-Canna-Custom-Name-Print-T.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/item_images/418QpEn9JKL._AC_UF8941000_QL80_DpWeblab_.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/item_images/418QpEn9JKL._AC_UF8941000_QL80_DpWeblab__WETKfN7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/item_images/91oxSXgVD6L.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/item_images/91oxSXgVD6L_wPUwRQx.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/item_images/a3321810f8f4f0cf22cfaa40052e34fe.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/item_images/a3321810f8f4f0cf22cfaa40052e34fe_UUTdI1Y.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/item_images/ebd64edc78baccccd0492f15a321c856_1641891669.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/item_images/ebd64edc78baccccd0492f15a321c856_1641891669_T4E1L97.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/item_images/mo-hinh-luffy-one-piece-gear-4-25cm-1.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +133,7 @@
       <workItem from="1685352239220" duration="14432000" />
       <workItem from="1685873404122" duration="10000" />
       <workItem from="1688981499253" duration="6970000" />
-      <workItem from="1690081846760" duration="7107000" />
+      <workItem from="1690081846760" duration="8236000" />
     </task>
     <servers />
   </component>

@@ -2,7 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ff5e766-9a62-47e1-ab73-4686c6d3cda0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/media/item_images/shirt_noun_002_33400.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/item_images/shirt_noun_002_33400_3cRGpJT.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/puddle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/puddle.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conversation/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/conversation/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conversation/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/conversation/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conversation/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/conversation/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conversation/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/conversation/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conversation/migrations/0002_alter_conversation_item_alter_conversation_members_and_more.py" beforeDir="false" afterPath="$PROJECT_DIR$/conversation/migrations/0002_alter_conversation_item_alter_conversation_members_and_more.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conversation/migrations/0003_alter_conversation_item_alter_conversation_members_and_more.py" beforeDir="false" afterPath="$PROJECT_DIR$/conversation/migrations/0003_alter_conversation_item_alter_conversation_members_and_more.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conversation/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/conversation/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conversation/templates/conversation/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/conversation/templates/conversation/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conversation/templates/conversation/inbox.html" beforeDir="false" afterPath="$PROJECT_DIR$/conversation/templates/conversation/inbox.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conversation/templates/conversation/new.html" beforeDir="false" afterPath="$PROJECT_DIR$/conversation/templates/conversation/new.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conversation/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/conversation/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conversation/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/conversation/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conversation/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/conversation/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/core/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/core/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/core/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/core/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/core/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/core/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/core/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/core/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/core/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/core/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/core/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/core/signup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard/templates/dashboard/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard/templates/dashboard/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/item/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/item/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/item/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/item/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/migrations/0002_alter_category_options_item.py" beforeDir="false" afterPath="$PROJECT_DIR$/item/migrations/0002_alter_category_options_item.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/item/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/templates/item/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/item/templates/item/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/templates/item/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/item/templates/item/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/templates/item/items.html" beforeDir="false" afterPath="$PROJECT_DIR$/item/templates/item/items.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/item/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/item/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/item/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/puddle/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/puddle/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/puddle/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/puddle/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/puddle/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/puddle/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/puddle/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/puddle/wsgi.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,23 +95,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/PycharmProjects/puddle&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.templateLanguages.PyTemplateLanguageModulesConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/fubukishirakami/Desktop/puddle-1/media/item_images",
+    "settings.editor.selected.configurable": "com.jetbrains.python.templateLanguages.PyTemplateLanguageModulesConfigurable"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/media/item_images" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.manage">
     <configuration name="manage" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true" nameIsGenerated="true">
       <module name="puddle" />
@@ -124,7 +190,8 @@
       <workItem from="1688981499253" duration="6970000" />
       <workItem from="1690081846760" duration="8289000" />
       <workItem from="1690100285477" duration="717000" />
-      <workItem from="1690101219295" duration="702000" />
+      <workItem from="1690101219295" duration="2690000" />
+      <workItem from="1691753364332" duration="5102000" />
     </task>
     <servers />
   </component>
@@ -158,7 +225,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/puddle$manage.coverage" NAME="manage Coverage Results" MODIFIED="1685352084272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/marketplace$manage.coverage" NAME="manage Coverage Results" MODIFIED="1684822621831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/puddle$manage.coverage" NAME="manage Coverage Results" MODIFIED="1685352084272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
